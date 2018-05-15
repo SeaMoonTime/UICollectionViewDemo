@@ -1,10 +1,10 @@
 # SMTUICollectionViewDemo
 
-文档说明请参照
+文档说明请参照[iOS之流布局UICollectionView全系列教程](https://blog.csdn.net/lvxiangan/article/details/73826108)
 
 ## SMTCollectionViewDemo1 简单使用
 
-- 基本的UICollectionView的使用[iOS之流布局UICollectionView全系列教程](https://blog.csdn.net/lvxiangan/article/details/73826108)
+- 基本的UICollectionView的使用
 
 ![](https://raw.githubusercontent.com/SeaMoonTime/UICollectionViewDemo/master/Images/SMTCollectionViewDemo1.png)
 
