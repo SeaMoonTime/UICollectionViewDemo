@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:SMTCollectionViewDemo5/SMTCollectionViewDemo5.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:SMTCollectionViewDemo4/SMTCollectionViewDemo4.xcodeproj">
    </FileRef>
    <FileRef
